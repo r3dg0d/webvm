@@ -49,7 +49,7 @@ This project depends on:
 - [Tailscale](https://tailscale.com/) for the networking component
 - [lwIP](https://savannah.nongnu.org/projects/lwip/) for the TCP/IP stack, compiled to the Web by [Cheerp](https://github.com/leaningtech/cheerp-meta)
 
-# Add OS flashing via ISO (Windows), .zip (Android), and .ipsw (macOS & iOS (iPhone))
+# Add OS flashing via ISO (Windows), .zip (Android), and .ipsw (macOS & iOS (iPhone)) 
 
 # License
 Copyright (c) Leaning Technologies Limited. All rights reserved.
